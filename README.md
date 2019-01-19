@@ -1,5 +1,5 @@
 # movies_review_prediction
-# basic nlt kit
+# basic nltk kit
 # preprocessing the data
 # MultinomialNB
 # GridSearchCV 
