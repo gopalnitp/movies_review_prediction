@@ -3,3 +3,4 @@
 # preprocessing the data
 # MultinomialNB
 # GridSearchCV 
+Try to improve the model to 95%
